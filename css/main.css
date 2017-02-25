@@ -1251,14 +1251,18 @@ form label {
   margin: auto;
   padding: auto;
 }
-.navbar-default li a{
+.navbar-nav li a{
   text-decoration: none;
 	color: #fff; !important;
-  font-family: "Comic Sans MS";
   font-weight: bold;
   font-size: 100%;
   -webkit-transition: 2s;
 	background-color: none !important;
+}
+
+.navbar-nav li a{
+    
+    
 }
 
 .dropdown-menu{
